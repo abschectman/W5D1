@@ -1,0 +1,31 @@
+.subs a {
+  margin-right: 11px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 10px;
+  margin-top: 11px;
+
+}
+
+
+.subs a:hover {
+  background-color: $lightest-gray;
+}
+
+.subs ul {
+  display: flex;
+  justify-content: center;
+}
+
+.subs li a{
+  margin-top: 13px;
+  font-size: 8px;
+}
+
+.subs li {
+  margin-top: 12px;
+}
+
+.subs li:hover {
+  text-decoration: underline;
+
+}
